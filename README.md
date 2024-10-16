@@ -1,16 +1,15 @@
-## Hi there 👋
+## bem vindo al meu perfil 👋
 
-<!--
-**carlos061109/carlos061109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Carlos Eduardo Esquelbeck tenho 14 anos e moro em Curitiba Paraná
+vou para a escola durante a parte da manhã e de tarde trabalho com meu pai a tarde 
+aos finais de semana prefiro ficar em casa 
+gosto de jogar bola e de pedalar ⚽️🚴‍♂️
+![](https://media1.tenor.com/m/LGMLzC3qOboAAAAC/garfield-garfield-meme.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
